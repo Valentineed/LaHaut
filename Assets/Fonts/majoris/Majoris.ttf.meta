@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 79568fd53b75bc14db43b74a3dd55475
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Majoris
+  fontNames:
+  - Majoris
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d287cc654c5a5a34db5a4cf9751f590c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
